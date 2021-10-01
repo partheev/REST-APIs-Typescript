@@ -1,0 +1,22 @@
+{
+  "name": "ecombackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@partheev8/commonlib": "^1.0.6",
+    "axios": "^0.22.0",
+    "express": "^4.17.1",
+    "express-async-errors": "^3.1.1",
+    "mongoose": "^6.0.8"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.13"
+  }
+}
